@@ -52,7 +52,7 @@
     "lodash-es": "^4.17.21",
     "pinia": "catalog:",
     "tinymce": "^7.3.0",
-    "unplugin-vue-components": "^0.27.3",
+    "unplugin-vue-components": "^28.4.1",
     "vue": "catalog:",
     "vue-router": "catalog:"
   },
