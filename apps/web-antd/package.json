@@ -44,7 +44,7 @@
     "@vben/utils": "workspace:*",
     "@vueuse/core": "catalog:",
     "ant-design-vue": "catalog:",
-    "cropperjs": "^1.6.2",
+    "cropperjs": "^2.0.0",
     "crypto-js": "^4.2.0",
     "dayjs": "catalog:",
     "echarts": "^5.5.1",
